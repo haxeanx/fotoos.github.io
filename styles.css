@@ -75,6 +75,17 @@ body {
     justify-content: center;
     align-items: center;
 }
+.Contatos {
+    width: 100px;
+    position: relative;
+    top: 100px;
+    left: 50px;
+    color: black;
+    border: transparent;
+    background-color: transparent;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
 
 .Home {
     width: 100px;
